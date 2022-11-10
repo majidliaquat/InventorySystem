@@ -360,7 +360,6 @@ function removeFunc(id)
           }
         }
       }); 
-
       return false;
     });
   }
